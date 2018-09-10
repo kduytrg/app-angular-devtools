@@ -2,22 +2,22 @@
 	"menu": [
 		{
 			"id": 1,
-			"name": "Trang chủ",
+			"name": "Nón",
 			"url": "home",
-			"icon": "fa-home"
+			"icon": "fa-pied-piper-hat"
 		}, {
 			"id": 2,
-			"name": "Gian hàng",
+			"name": "Áo",
 			"url": "shop",
-			"icon": "fa-shopping-cart"
+			"icon": "fa-tshirt"
 		}, {
 			"id": 3,
-			"name": "Dịch vụ",
+			"name": "Quần",
 			"url": "service",
 			"icon": "fa-coffee"
 		}, {
 			"id": 4,
-			"name": "Về chúng tôi",
+			"name": "Giày",
 			"url": "about",
 			"icon": "fa-archive"
 		}, {
