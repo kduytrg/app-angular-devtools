@@ -2,15 +2,15 @@ angular.module('home.router', []).config(_homeRoute)
 
 function _homeRoute($stateProvider, $urlRouterProvider, $urlMatcherFactoryProvider) {
 	$stateProvider
-		.state('home', {
+		.state('non', {
 			url: '/',
 			data : { 
-				pageTitle: 'Trang chủ' 
+				pageTitle: 'Nón' 
 			},
 			views: {
 				"@": {
 					controller: 'HomeController',
-					templateUrl: '/views/home.html',
+					templateUrl: '/views/non.html',
 				},
 				"menu@": {
 					controller: 'MenuController',

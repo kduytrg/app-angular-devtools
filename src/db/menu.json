@@ -3,22 +3,22 @@
 		{
 			"id": 1,
 			"name": "Nón",
-			"url": "home",
+			"url": "non",
 			"icon": "fa-pied-piper-hat"
 		}, {
 			"id": 2,
 			"name": "Áo",
-			"url": "shop",
+			"url": "ao",
 			"icon": "fa-tshirt"
 		}, {
 			"id": 3,
 			"name": "Quần",
-			"url": "service",
+			"url": "quan",
 			"icon": "fa-coffee"
 		}, {
 			"id": 4,
 			"name": "Giày",
-			"url": "about",
+			"url": "giay",
 			"icon": "fa-archive"
 		}, {
 			"id": 5,

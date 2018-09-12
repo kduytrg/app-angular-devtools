@@ -2,15 +2,15 @@ angular.module('about.router', []).config(_aboutRoute)
 
 function _aboutRoute($stateProvider, $urlRouterProvider) {
 	$stateProvider
-		.state('about', {
+		.state('giay', {
 			url: '/about',
 			data : { 
-				pageTitle: 'Về chúng tôi' 
+				pageTitle: 'Giày' 
 			},
 			views: {
 				"@": {
 					controller: 'AboutController',
-					templateUrl: '/views/about.html',
+					templateUrl: '/views/giay.html',
 				},
 				"menu@": {
 					controller: 'MenuController',
